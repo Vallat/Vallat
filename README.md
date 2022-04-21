@@ -12,4 +12,4 @@ I really like to solve complex code tasks and currently I'm learning C#, though 
 - And a [parser](https://github.com/Vallat/mirapolis-parser) for university lections so that I have more free time for coding 😋
 
 ### Contact me:
-- **Discord** Vallat#1102/<@102004044733624320>
+- **Discord:** Vallat#1102/<@102004044733624320>
