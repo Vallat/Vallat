@@ -9,7 +9,7 @@ I really like to solve complex code tasks and currently I'm learning C#, though 
 #### My university projects:
 - Code [compiler](https://github.com/Vallat/custom_compiler) written in C++
 - Simple [calculator](https://github.com/Vallat/calculator) on C#
-- And a [parser](https://github.com/Vallat/mirapolis-parser) for university lectures so that I have more free time for coding 😋
+- [Action game](https://github.com/Vallat/speedrun_simulator) made in Godot as my first project as part of learning the engine
 
 ### Contact me:
 - **Discord:** Vallat#1102/<@102004044733624320>
