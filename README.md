@@ -14,4 +14,5 @@ I really like to solve complex code tasks and currently I'm learning C#, though 
 - [Action game](https://github.com/Vallat/speedrun_simulator) made in Godot as my first project as part of learning the engine
 
 ### Contact me:
-- **Discord:** Vallat#1102/<@102004044733624320>
+- **Discord:** vallat/<@102004044733624320>
+- **TG:** @Vallat07
